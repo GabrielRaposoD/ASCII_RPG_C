@@ -1,0 +1,4 @@
+Luna Splendida e um jogo simplorio de RPG programado na linguagem C, sua historia e objetivos ainda nao estao concretos
+Luna Splendida foi e esta sendo feito como um projeto de trabalho final para a materia do segundo semestre curso de ciencia da computacao, programacao estruturada, na universidade catolica de brasilia.
+Autores: Gabriel Roberto Raposo Ferreira e Layla Emanuele Efren Costa
+ 
